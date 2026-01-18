@@ -1,7 +1,7 @@
 # CachePorter - 缓存搬运工
 
 <p align="center">
-  <img src="images/cache-porter_128.png" alt="CachePorter Logo" width="200" height="200"/>
+  <img src="images/cache-porter.png" alt="CachePorter Logo" width="200" height="200"/>
 </p>
 
 <h1 align="center">CachePorter - 缓存搬运工</h1>
